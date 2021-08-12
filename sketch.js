@@ -248,6 +248,5 @@ function draw()
   }
   drawSprites();
   Name = input.value();
- console.log(gameState);
 }
 
